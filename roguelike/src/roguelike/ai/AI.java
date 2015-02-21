@@ -12,6 +12,7 @@ import java.util.List;
  * данные, в том числе и другие экземпляры этого класса
  * @author azu
  */
+@Deprecated //TODO заменить на state machine
 public class AI {
 
     Game game;
