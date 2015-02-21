@@ -6,7 +6,7 @@ package mapgenerator.ChunkGenerator;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Cordinates {
     public int x = 0;

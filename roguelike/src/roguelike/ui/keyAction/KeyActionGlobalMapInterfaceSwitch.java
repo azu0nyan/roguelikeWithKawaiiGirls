@@ -5,7 +5,7 @@ import roguelike.ui.GraphicsUI;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 14.01.14
  * Time: 9:16
  * To change this template use File | Settings | File Templates.

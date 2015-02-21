@@ -1,16 +1,16 @@
 package roguelike.event;
 
-import java.util.List;
-
 import roguelike.CONSTANTS;
 import roguelike.creature.BodyPart;
 import roguelike.creature.Creature;
 import roguelike.objectsAndProperties.properties.WeaponPropertyInterface;
 import roguelike.stats.DamageValue;
 
+import java.util.List;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 public class CreatureWeaponDamagedEvent extends CreatureDamagedEvent implements CreatureWeaponDamagedEventInterface{
 

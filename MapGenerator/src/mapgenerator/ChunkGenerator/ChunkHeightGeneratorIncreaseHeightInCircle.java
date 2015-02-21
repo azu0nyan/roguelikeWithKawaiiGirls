@@ -6,7 +6,7 @@ package mapgenerator.ChunkGenerator;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ChunkHeightGeneratorIncreaseHeightInCircle extends ChunkHeightGeneratorInterface{
     int x;

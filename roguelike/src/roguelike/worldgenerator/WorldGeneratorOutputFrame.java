@@ -11,7 +11,7 @@ import java.awt.image.BufferStrategy;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class WorldGeneratorOutputFrame extends JFrame{
     

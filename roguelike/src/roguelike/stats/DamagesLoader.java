@@ -1,15 +1,16 @@
 package roguelike.stats;
 
+import roguelike.CONFIGURATION;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.LinkedList;
-import roguelike.CONFIGURATION;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class DamagesLoader {
     LinkedList<DamagePrototype> prototypes;

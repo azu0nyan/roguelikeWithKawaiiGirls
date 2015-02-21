@@ -5,14 +5,15 @@ import it.biobytes.ammentos.PersistentField;
 import roguelike.DAO.HasId;
 import roguelike.Game;
 import roguelike.TileCordinatesLinkedToChunk;
-import roguelike.ai.*;
+import roguelike.ai.AIAttackEnemyIfSee;
+import roguelike.ai.AIRandomMovement;
 import roguelike.creature.Body;
 import roguelike.creature.Creature;
 import roguelike.creature.CreatureHumanoid;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 @PersistentEntity(
         sourceDomain = "CREATURES",

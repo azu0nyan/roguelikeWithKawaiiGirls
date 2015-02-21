@@ -6,7 +6,7 @@ import roguelike.creature.MovementType;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 07.07.13
  * Time: 16:46
  * To change this template use File | Settings | File Templates.

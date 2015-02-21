@@ -13,7 +13,7 @@ import java.util.Random;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 30.09.13
  * Time: 19:44
  * To change this template use File | Settings | File Templates.

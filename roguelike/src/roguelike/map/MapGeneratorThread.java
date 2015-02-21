@@ -3,7 +3,8 @@ package roguelike.map;
 import roguelike.*;
 import roguelike.worldgenerator.PreGeneratedMap;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.SynchronousQueue;
 
 /**
@@ -11,7 +12,7 @@ import java.util.concurrent.SynchronousQueue;
  * mapGeneratorThread = new MapGeneratorThread(this, preMap);  *
  * mapGeneratorThread.generateFirstTime();
  * mapGeneratorThread.start();
- * @author nik
+ * @author azu
  */
 public class MapGeneratorThread extends Thread implements TileCordinatesChangedListener, ChunkObserverGenerator {
 

@@ -2,7 +2,7 @@ package roguelike.ui;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public enum InventoryMenuPointerState {
     INVENTORY, EQUIPMENT

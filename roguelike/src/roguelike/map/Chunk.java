@@ -17,7 +17,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Chunk {
 

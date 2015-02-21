@@ -3,7 +3,7 @@ package roguelike.spell;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class SpellsFactory {
     public static Spell getSpell(int id){ 

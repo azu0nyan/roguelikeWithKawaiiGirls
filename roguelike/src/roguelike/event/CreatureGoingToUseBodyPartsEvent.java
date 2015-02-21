@@ -1,7 +1,6 @@
 package roguelike.event;
 
 import roguelike.Pair;
-import roguelike.Tools;
 import roguelike.creature.BodyPart;
 
 import java.util.ArrayList;
@@ -9,7 +8,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 14.08.13
  * Time: 0:16
  * To change this template use File | Settings | File Templates.

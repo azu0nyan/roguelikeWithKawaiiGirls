@@ -2,7 +2,7 @@ package roguelike.spell;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class EffectsFactory {
     public static EffectCastOverTime getHealOverTimetEffect(int turns, int healValue){

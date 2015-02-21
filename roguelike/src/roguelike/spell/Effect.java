@@ -7,7 +7,7 @@ import roguelike.event.Event;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Effect {    
     Creature owner = null;

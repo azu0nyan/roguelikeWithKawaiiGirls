@@ -5,7 +5,7 @@ import roguelike.event.EventType;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 18.06.13
  * Time: 15:41
  * To change this template use File | Settings | File Templates.

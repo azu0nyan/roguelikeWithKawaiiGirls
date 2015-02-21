@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ChunkHeightGeneratorMountainFail extends ChunkHeightGeneratorInterface{
     int x;

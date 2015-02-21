@@ -2,13 +2,12 @@ package roguelike.ui.keyAction;
 
 import roguelike.creature.CreatureHumanoidActionInterface;
 import roguelike.item.Item;
-import roguelike.item.Item;
 import roguelike.ui.GraphicsUI;
 import roguelike.ui.InventoryMenuPointerState;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 02.10.13
  * Time: 19:51
  * To change this template use File | Settings | File Templates.

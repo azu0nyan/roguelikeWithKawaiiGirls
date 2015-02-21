@@ -1,10 +1,10 @@
 package roguelike.objectsAndProperties;
 
 import org.jetbrains.annotations.Nullable;
-import roguelike.map.Chunk;
 import roguelike.TileCordinatesLinkedToChunk;
-import roguelike.worldobject.WorldObjectPropertyType;
+import roguelike.map.Chunk;
 import roguelike.objectsAndProperties.properties.WorldObjectPropertyInterface;
+import roguelike.worldobject.WorldObjectPropertyType;
 
 import java.util.ArrayList;
 import java.util.EnumMap;
@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 02.10.13
  * Time: 16:17
  * To change this template use File | Settings | File Templates.

@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface EventInterface {
 

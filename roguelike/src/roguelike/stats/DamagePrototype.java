@@ -3,7 +3,7 @@ package roguelike.stats;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class DamagePrototype {
     public DamageValue damage;

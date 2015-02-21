@@ -2,7 +2,7 @@ package roguelike.creature;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public enum BodyPartTag {
     /**

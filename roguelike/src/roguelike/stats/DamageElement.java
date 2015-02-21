@@ -2,7 +2,7 @@ package roguelike.stats;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public enum DamageElement {
     //При добавлении элементов внести изменения в 

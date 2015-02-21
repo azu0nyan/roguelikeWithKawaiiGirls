@@ -5,7 +5,7 @@ import roguelike.ui.GraphicsUI;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class KeyActionBodyInfoSwitch extends KeyAction{
      @Override

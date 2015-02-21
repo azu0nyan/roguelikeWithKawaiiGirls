@@ -5,7 +5,7 @@ import roguelike.objectsAndProperties.properties.WeaponPropertyInterface;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface CreatureWeaponDamagedEventInterface extends CreatureDamagedEventInterface, CreatureUsedBodyPartsEventInterface{
 

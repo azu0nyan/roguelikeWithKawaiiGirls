@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Fraction {
     

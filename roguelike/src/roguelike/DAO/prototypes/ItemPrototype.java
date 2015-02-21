@@ -1,9 +1,5 @@
 package roguelike.DAO.prototypes;
 
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.*;
-
 import com.sun.istack.internal.Nullable;
 import roguelike.DAO.ItemPrototypesLoader;
 import roguelike.DAO.ItemTypes;
@@ -16,9 +12,16 @@ import roguelike.item.itemTemplates.ItemTemplates;
 import roguelike.objectsAndProperties.LocatedObjectWithPropertiesInterface;
 import roguelike.objectsAndProperties.Material;
 
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ItemPrototype {
     int id = 1;

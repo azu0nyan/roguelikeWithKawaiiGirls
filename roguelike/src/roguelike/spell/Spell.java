@@ -2,7 +2,7 @@ package roguelike.spell;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public abstract class Spell {
     int id = 1;

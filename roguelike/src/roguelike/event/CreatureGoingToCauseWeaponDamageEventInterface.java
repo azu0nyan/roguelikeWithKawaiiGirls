@@ -1,12 +1,12 @@
 package roguelike.event;
 
 import roguelike.creature.Creature;
-import roguelike.stats.DamageValue;
 import roguelike.objectsAndProperties.properties.WeaponPropertyInterface;
+import roguelike.stats.DamageValue;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface CreatureGoingToCauseWeaponDamageEventInterface extends CreatureGoingToUseBodyPartsEventInterface{
     

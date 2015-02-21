@@ -1,13 +1,13 @@
 package roguelike;
 
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 import roguelike.DAO.TileTypesLoader;
 import roguelike.ui.GraphicsUI;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 /**
- * @author nik
+ * @author azu
  */
 public class Roguelike {
     /**

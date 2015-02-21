@@ -6,7 +6,7 @@ package mapgenerator.ChunkGenerator;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public abstract class ChunkHeightGeneratorInterface {
     ChunkMapGenerator generator;

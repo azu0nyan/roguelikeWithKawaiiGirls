@@ -1,21 +1,23 @@
 package roguelike.creature;
 
-import java.util.ArrayList;
-import java.util.EnumMap;
-import java.util.LinkedList;
-import java.util.List;
-
 import roguelike.Pair;
 import roguelike.item.EquipmentSlot;
 import roguelike.item.EquipmentSlotType;
 import roguelike.item.Item;
 import roguelike.objectsAndProperties.properties.EquipableItemPropertyInterface;
 import roguelike.objectsAndProperties.properties.WorldObjectPropertyInterface;
-import roguelike.stats.*;
+import roguelike.stats.DamageEntry;
+import roguelike.stats.DamageValue;
+import roguelike.stats.ItemDefenseStatsInterface;
 import roguelike.worldobject.WorldObjectPropertyType;
 
+import java.util.ArrayList;
+import java.util.EnumMap;
+import java.util.LinkedList;
+import java.util.List;
+
 /**
- * @author nik
+ * @author azu
  */
 public class Body implements EquipmentInterface {//Жуткий класс вышел Т_Т
 

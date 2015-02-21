@@ -5,7 +5,7 @@ import roguelike.item.Item;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class EffectItem extends Effect{
     /** Все заклинания предметов накладывающие эффекты на существо 

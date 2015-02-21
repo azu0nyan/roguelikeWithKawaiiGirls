@@ -2,7 +2,6 @@ package roguelike.item;
 
 import roguelike.creature.BodyPart;
 import roguelike.creature.Creature;
-import roguelike.objectsAndProperties.properties.EquipableItemProperty;
 import roguelike.objectsAndProperties.properties.EquipableItemPropertyInterface;
 import roguelike.objectsAndProperties.properties.WorldObjectPropertyInterface;
 import roguelike.worldobject.WorldObjectPropertyType;
@@ -11,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class EquipmentSlot {
     

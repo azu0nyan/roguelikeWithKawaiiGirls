@@ -5,7 +5,7 @@ import roguelike.ui.InventoryMenuPointerState;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class KeyActionInventoryMenuLeftSwitch extends KeyAction{
 

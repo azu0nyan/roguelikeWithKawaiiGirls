@@ -1,16 +1,16 @@
 package roguelike.ai;
 
-import java.util.LinkedList;
-import java.util.List;
-
-import roguelike.*;
+import roguelike.Game;
+import roguelike.Tools;
 import roguelike.creature.Creature;
 import roguelike.event.Event;
+
+import java.util.List;
 /**
  * это базовый класс для всего AI монстров, т.к. для каждого монстра
  * создается отдельный его экземпляр, то наследники могут хранить какие-то
  * данные, в том числе и другие экземпляры этого класса
- * @author nik
+ * @author azu
  */
 public class AI {
 

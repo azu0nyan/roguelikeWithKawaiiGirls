@@ -7,7 +7,7 @@ import roguelike.creature.Creature;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class CreaturesLoader extends SmthPrototypesLoader<CreaturePrototype>{
     

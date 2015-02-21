@@ -6,7 +6,7 @@ import roguelike.creature.MovementType;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface CreatureMovedEventInterface extends CreatureUsedBodyPartsEventInterface{
 

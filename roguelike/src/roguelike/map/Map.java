@@ -2,18 +2,16 @@ package roguelike.map;
 
 import roguelike.*;
 import roguelike.creature.MovementType;
-import roguelike.map.Chunk;
-import roguelike.map.ChunkAggregation;
 
 import java.util.ArrayList;
-import java.util.PriorityQueue;
 import java.util.Comparator;
+import java.util.PriorityQueue;
 
 
 /**
  * Класс карты, хратин в себе карту, а так же сожержит функции для работы с ней
  * например поиск пути
- * @author nik
+ * @author azu
  */
 public class Map {
 

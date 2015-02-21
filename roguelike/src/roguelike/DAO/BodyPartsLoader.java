@@ -1,16 +1,12 @@
 package roguelike.DAO;
 
 import roguelike.DAO.prototypes.BodyPartPrototype;
-import roguelike.DAO.prototypes.BodyPartTagPrototype;
 import roguelike.Tools;
 import roguelike.creature.BodyPart;
 
-import java.util.List;
-import java.util.stream.Stream;
-
 /**
  *
- * @author nik
+ * @author azu
  */
 public class BodyPartsLoader extends SmthPrototypesLoader<BodyPartPrototype>{
 

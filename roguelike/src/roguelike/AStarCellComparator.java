@@ -4,7 +4,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class AStarCellComparator implements Comparator<AStarCell>{
     @Override

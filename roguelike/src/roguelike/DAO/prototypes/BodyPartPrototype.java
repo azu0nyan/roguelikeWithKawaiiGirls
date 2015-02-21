@@ -1,22 +1,18 @@
 package roguelike.DAO.prototypes;
 
-import java.util.EnumSet;
-import java.util.LinkedList;
-import java.util.List;
-
-import it.biobytes.ammentos.AutomaticType;
 import it.biobytes.ammentos.PersistentEntity;
 import it.biobytes.ammentos.PersistentField;
 import it.biobytes.ammentos.PersistentList;
 import roguelike.DAO.BodyPartsLoader;
 import roguelike.DAO.HasId;
 import roguelike.creature.BodyPart;
-import roguelike.creature.BodyPartTag;
 import roguelike.item.EquipmentSlotType;
+
+import java.util.List;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 @PersistentEntity(
         sourceDomain = "BODY_PARTS",

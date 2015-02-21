@@ -6,7 +6,7 @@ package mapgenerator.ChunkGenerator;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ChunkHeightGeneratorPerlinNoise extends ChunkHeightGeneratorInterface{
     int range = 128;

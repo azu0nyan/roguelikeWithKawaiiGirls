@@ -1,13 +1,13 @@
 package roguelike.ui;
 
-import java.awt.Color;
 import roguelike.creature.Body;
 import roguelike.creature.BodyPart;
-import roguelike.creature.BodyPartTag;
+
+import java.awt.*;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class DrawableBody extends DrawableInterfacePart{
     Body body;

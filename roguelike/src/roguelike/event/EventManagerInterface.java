@@ -2,7 +2,7 @@ package roguelike.event;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface EventManagerInterface {
     public void sendEvent(Event event);

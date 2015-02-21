@@ -2,7 +2,7 @@ package roguelike;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ItemsManager {
     

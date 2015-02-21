@@ -1,10 +1,9 @@
 package roguelike.creature;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
-import roguelike.*;
+import roguelike.Fraction;
+import roguelike.TileCordinates;
+import roguelike.TileCordinatesLinkedToChunk;
+import roguelike.Tools;
 import roguelike.ai.AI;
 import roguelike.event.*;
 import roguelike.event.listener.CreatureDecreaseEnduranceBodyPartsUsedListener;
@@ -13,18 +12,22 @@ import roguelike.map.Chunk;
 import roguelike.objectsAndProperties.LocatedObjectWithProperties;
 import roguelike.objectsAndProperties.LocatedObjectWithPropertiesInterface;
 import roguelike.objectsAndProperties.ObjectType;
+import roguelike.objectsAndProperties.properties.GatheringWorldObjectPropertyInterface;
 import roguelike.objectsAndProperties.properties.WeaponPropertyInterface;
 import roguelike.objectsAndProperties.properties.WorldObjectPropertyInterface;
 import roguelike.spell.Effect;
 import roguelike.stats.DamageValue;
 import roguelike.stats.ItemDefenseStatsInterface;
 import roguelike.stats.Stats;
-import roguelike.objectsAndProperties.properties.GatheringWorldObjectPropertyInterface;
 import roguelike.worldobject.WorldObjectPropertyType;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Creature extends LocatedObjectWithProperties implements LocatedObjectWithPropertiesInterface, CreatureActionInterface{
     private AI ai;

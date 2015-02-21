@@ -1,13 +1,13 @@
 package roguelike.event;
 
-import java.util.LinkedList;
-
 import roguelike.CONFIGURATION;
 import roguelike.Game;
 
+import java.util.LinkedList;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 @Deprecated
 public class ThreadEventManager extends Thread{

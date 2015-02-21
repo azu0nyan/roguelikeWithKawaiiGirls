@@ -5,7 +5,7 @@ import roguelike.stats.DamageValue;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface CreatureDamagedEventInterface extends EventInterface{
 

@@ -2,7 +2,7 @@ package roguelike.worldgenerator;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 18.08.13
  * Time: 21:31
  * To change this template use File | Settings | File Templates.

@@ -5,7 +5,7 @@ package roguelike.event;
  * класс event listener - только один.
  * Если наследник event имеет определенный тип, то он должен
  * реальзовывать соответствующий интерфейс
- * @author nik
+ * @author azu
  */
 public enum EventType {
     NONE,

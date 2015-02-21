@@ -1,6 +1,5 @@
 package roguelike.DAO.prototypes;
 
-import it.biobytes.ammentos.FieldTypeEnum;
 import it.biobytes.ammentos.PersistentEntity;
 import it.biobytes.ammentos.PersistentField;
 import roguelike.DAO.HasId;
@@ -10,7 +9,7 @@ import roguelike.creature.Creature;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 @PersistentEntity(
         sourceDomain = "BODIES",

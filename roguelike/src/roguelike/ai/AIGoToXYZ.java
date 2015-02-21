@@ -1,11 +1,14 @@
 package roguelike.ai;
-import roguelike.*;
+
+import roguelike.Game;
+import roguelike.Path;
+import roguelike.TileCordinates;
 import roguelike.creature.Creature;
 import roguelike.creature.MovementType;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class AIGoToXYZ extends AI{
     

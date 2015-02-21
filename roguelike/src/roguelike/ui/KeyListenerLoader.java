@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class KeyListenerLoader {
     public static void loadAndSetKeyBindingsFromDB(String DBName, String tableName, GraphicsUI ui) throws Exception{

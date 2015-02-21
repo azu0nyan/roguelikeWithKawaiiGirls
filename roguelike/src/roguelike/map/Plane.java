@@ -4,7 +4,7 @@ import roguelike.Triple;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 01.11.13
  * Time: 18:52
  * To change this template use File | Settings | File Templates.

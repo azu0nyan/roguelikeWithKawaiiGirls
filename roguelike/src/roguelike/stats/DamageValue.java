@@ -1,11 +1,10 @@
 package roguelike.stats;
 
-import java.util.EnumMap;
 import java.util.LinkedList;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 /**
  * структура для хранения урона разных типов

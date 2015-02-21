@@ -1,7 +1,6 @@
 package roguelike.event;
 
 import roguelike.Tools;
-import roguelike.creature.BodyPart;
 import roguelike.creature.BodyPartTag;
 import roguelike.creature.CreatureHumanoid;
 import roguelike.item.Item;
@@ -10,7 +9,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 21.06.13
  * Time: 15:56
  * To change this template use File | Settings | File Templates.

@@ -1,12 +1,13 @@
 package roguelike.ui.keyAction;
 
-import java.util.LinkedList;
 import roguelike.creature.Creature;
 import roguelike.ui.GraphicsUI;
 
+import java.util.LinkedList;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 public class KeyActionNextTarget extends KeyAction{
     @Override

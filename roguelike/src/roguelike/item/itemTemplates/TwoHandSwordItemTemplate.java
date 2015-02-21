@@ -13,7 +13,7 @@ import static com.google.common.collect.Lists.newArrayList;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 23.10.13
  * Time: 16:53
  * To change this template use File | Settings | File Templates.

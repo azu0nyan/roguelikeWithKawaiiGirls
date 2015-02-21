@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 15.01.14
  * Time: 0:56
  * To change this template use File | Settings | File Templates.

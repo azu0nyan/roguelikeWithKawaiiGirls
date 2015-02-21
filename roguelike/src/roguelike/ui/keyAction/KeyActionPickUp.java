@@ -6,7 +6,7 @@ import roguelike.ui.GraphicsUI;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class KeyActionPickUp extends KeyAction{
 

@@ -1,16 +1,16 @@
 package roguelike;
 
-import java.util.ArrayList;
-import java.util.Random;
-
 import roguelike.DAO.CreaturesLoader;
 import roguelike.creature.Creature;
 import roguelike.event.Event;
 import roguelike.map.Chunk;
 
+import java.util.ArrayList;
+import java.util.Random;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 public class CreaturesManager {
 

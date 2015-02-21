@@ -4,7 +4,7 @@ import roguelike.map.Chunk;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ChunkCordinates extends Cordinates{
     public ChunkCordinates(){

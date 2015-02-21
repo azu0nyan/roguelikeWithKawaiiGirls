@@ -1,15 +1,13 @@
 package roguelike.objectsAndProperties.properties;
 
 import roguelike.Pair;
-import roguelike.Triple;
 import roguelike.objectsAndProperties.Material;
 
-import java.util.List;
 import java.util.Map;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 07.10.13
  * Time: 1:17
  * To change this template use File | Settings | File Templates.

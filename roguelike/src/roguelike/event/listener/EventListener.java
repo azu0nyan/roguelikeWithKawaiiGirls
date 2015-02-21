@@ -6,7 +6,7 @@ import roguelike.event.EventType;
 
 /**
  * Класс, наследники которого должны обрабатывать события, своего типа.
- * @author nik
+ * @author azu
  */
 public abstract class EventListener {
 

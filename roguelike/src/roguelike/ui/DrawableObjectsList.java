@@ -1,13 +1,12 @@
 package roguelike.ui;
 
-import java.awt.Color;
+import java.awt.*;
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class DrawableObjectsList {
 

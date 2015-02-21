@@ -1,12 +1,13 @@
 package roguelike.ai;
-import roguelike.*;
+
+import roguelike.Game;
 import roguelike.creature.Creature;
 
 
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class AIRandomMovement extends AI{
     

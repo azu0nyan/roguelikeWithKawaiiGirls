@@ -2,16 +2,14 @@ package roguelike.ui;
 
 import roguelike.map.Chunk;
 import roguelike.worldgenerator.ChunkPrototype2D;
-import roguelike.worldgenerator.Generator;
-import roguelike.worldgenerator.PreGeneratedMap;
 
 import java.awt.*;
 
-import static roguelike.ui.DrawableGlobalMapMode.*;
+import static roguelike.ui.DrawableGlobalMapMode.HEIGHT;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 14.01.14
  * Time: 6:23
  * To change this template use File | Settings | File Templates.

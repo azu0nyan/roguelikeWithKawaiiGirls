@@ -1,15 +1,16 @@
 package roguelike.DAO;
 
+import roguelike.stats.Stats;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
-import roguelike.stats.Stats;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class StatsLoader {
      private ArrayList<Stats> stats;

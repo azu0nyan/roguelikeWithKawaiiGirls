@@ -2,7 +2,7 @@ package roguelike.event;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 18.06.13
  * Time: 18:38
  * To change this template use File | Settings | File Templates.

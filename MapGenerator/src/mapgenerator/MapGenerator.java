@@ -6,7 +6,7 @@ package mapgenerator;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class MapGenerator {
 

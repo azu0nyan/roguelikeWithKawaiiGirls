@@ -1,7 +1,5 @@
 package roguelike.event.listener;
 
-import java.util.List;
-
 import roguelike.creature.BodyPart;
 import roguelike.creature.Creature;
 import roguelike.event.CreatureUsedBodyPartsEventInterface;
@@ -9,9 +7,11 @@ import roguelike.event.EventInterface;
 import roguelike.event.EventType;
 import roguelike.event.listener.conditions.CreatureAliveCondition;
 
+import java.util.List;
+
 /**
  * Ловим событие о действии части тела и уменьшаем запас сил у нее
- * @author nik
+ * @author azu
  */
 public class CreatureDecreaseEnduranceBodyPartsUsedListener extends ConditionLocatedEventListener{
 

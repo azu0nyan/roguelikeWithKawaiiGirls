@@ -17,7 +17,7 @@ import java.util.function.BinaryOperator;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Tools {
 

@@ -1,11 +1,10 @@
 package roguelike.item;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Inventory {
     

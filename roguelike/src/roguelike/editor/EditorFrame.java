@@ -14,10 +14,8 @@ import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeModel;
 import java.util.List;
 
-import static com.google.common.collect.Lists.newArrayList;
-
 /**
- * User: nik
+ * @author azu
  *
  *
  */

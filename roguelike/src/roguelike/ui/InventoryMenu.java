@@ -6,7 +6,7 @@ import roguelike.item.Item;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class InventoryMenu {
     

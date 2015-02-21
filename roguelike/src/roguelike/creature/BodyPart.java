@@ -1,8 +1,5 @@
 package roguelike.creature;
 
-import java.util.EnumSet;
-import java.util.LinkedList;
-import java.util.Random;
 import roguelike.Tools;
 import roguelike.item.EquipmentSlot;
 import roguelike.item.EquipmentSlotType;
@@ -12,9 +9,13 @@ import roguelike.stats.DamageEntry;
 import roguelike.stats.DamageValue;
 import roguelike.worldobject.WorldObjectPropertyType;
 
+import java.util.EnumSet;
+import java.util.LinkedList;
+import java.util.Random;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 public class BodyPart {
 

@@ -1,11 +1,10 @@
 package roguelike.spell;
 
-import roguelike.*;
 import roguelike.creature.Creature;
 
 /**
  * 
- * @author nik
+ * @author azu
  */
 public abstract class SpellCastableOnHimself extends Spell{
     public abstract void cast(Creature caster);

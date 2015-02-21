@@ -1,12 +1,11 @@
 package roguelike;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Random;
-
 import roguelike.DAO.*;
 import roguelike.DAO.prototypes.TileType;
-import roguelike.creature.*;
+import roguelike.creature.Body;
+import roguelike.creature.Creature;
+import roguelike.creature.CreaturePlayer;
+import roguelike.creature.MovementType;
 import roguelike.datetime.GlobalDate;
 import roguelike.event.Event;
 import roguelike.map.Chunk;
@@ -15,13 +14,19 @@ import roguelike.map.Map;
 import roguelike.map.MapGeneratorThread;
 import roguelike.spell.Effect;
 import roguelike.spell.EffectsFactory;
-import roguelike.stats.*;
+import roguelike.stats.DamageValue;
+import roguelike.stats.DamagesLoader;
+import roguelike.stats.Stats;
 import roguelike.worldgenerator.ChunkPrototype2D;
 import roguelike.worldgenerator.Generator;
 import roguelike.worldgenerator.PreGeneratedMap;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Random;
+
 /**
- * @author nik
+ * @author azu
  */
 public class Game {
 

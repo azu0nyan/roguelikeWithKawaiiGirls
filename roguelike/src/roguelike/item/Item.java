@@ -3,7 +3,6 @@ package roguelike.item;
 import com.sun.istack.internal.Nullable;
 import roguelike.TileCordinatesLinkedToChunk;
 import roguelike.TileCordinatesLinkedToChunkBindListener;
-import roguelike.creature.Creature;
 import roguelike.objectsAndProperties.LocatedObjectWithProperties;
 import roguelike.objectsAndProperties.LocatedObjectWithPropertiesInterface;
 import roguelike.objectsAndProperties.ObjectType;
@@ -14,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Item extends LocatedObjectWithProperties implements LocatedObjectWithPropertiesInterface {
 

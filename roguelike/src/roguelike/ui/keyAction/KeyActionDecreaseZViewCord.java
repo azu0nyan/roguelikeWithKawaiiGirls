@@ -4,7 +4,7 @@ import roguelike.ui.GraphicsUI;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class KeyActionDecreaseZViewCord extends KeyAction{
     @Override

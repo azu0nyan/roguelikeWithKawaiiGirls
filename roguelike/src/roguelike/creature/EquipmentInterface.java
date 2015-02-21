@@ -1,17 +1,15 @@
 package roguelike.creature;
 
-import java.util.LinkedList;
-import java.util.List;
-
 import roguelike.Pair;
 import roguelike.item.EquipmentSlot;
 import roguelike.item.EquipmentSlotType;
 import roguelike.item.Item;
-import roguelike.objectsAndProperties.properties.WeaponPropertyInterface;
+
+import java.util.List;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface EquipmentInterface {
 

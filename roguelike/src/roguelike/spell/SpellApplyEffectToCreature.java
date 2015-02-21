@@ -4,7 +4,7 @@ import roguelike.creature.Creature;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class SpellApplyEffectToCreature extends SpellCastableOnHimself{
     /**

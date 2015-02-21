@@ -2,7 +2,7 @@ package roguelike.DAO;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public enum ItemTypes {
     ITEM, WEAPON, EQUIPMENT

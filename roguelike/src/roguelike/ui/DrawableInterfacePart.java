@@ -1,10 +1,10 @@
 package roguelike.ui;
 
-import java.awt.Color;
+import java.awt.*;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class DrawableInterfacePart {
     private GraphicsUI ui;

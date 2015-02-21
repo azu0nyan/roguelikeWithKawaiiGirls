@@ -2,12 +2,11 @@ package roguelike.DAO.prototypes;
 
 import it.biobytes.ammentos.PersistentEntity;
 import it.biobytes.ammentos.PersistentField;
-import jcurses.system.CharColor;
 import roguelike.DAO.HasId;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 @PersistentEntity(
         sourceDomain = "TIlE_TYPES",

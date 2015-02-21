@@ -7,7 +7,7 @@ import roguelike.objectsAndProperties.ObjectType;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class WorldObject extends LocatedObjectWithProperties implements LocatedObjectWithPropertiesInterface{
 

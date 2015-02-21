@@ -3,18 +3,17 @@ package roguelike.DAO;
 import roguelike.Game;
 import roguelike.item.loot.LootList;
 import roguelike.objectsAndProperties.LocatedObjectWithProperties;
-import roguelike.objectsAndProperties.LocatedObjectWithPropertiesInterface;
 import roguelike.objectsAndProperties.Material;
-import roguelike.worldobject.WorldObjectPropertyType;
 import roguelike.objectsAndProperties.properties.GatheringWorldObjectProperty;
 import roguelike.objectsAndProperties.properties.WorldObjectPropertyInterface;
+import roguelike.worldobject.WorldObjectPropertyType;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 01.10.13
  * Time: 19:16
  * To change this template use File | Settings | File Templates.

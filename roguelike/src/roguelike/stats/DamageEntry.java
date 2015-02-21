@@ -2,7 +2,7 @@ package roguelike.stats;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class DamageEntry {
     private DamageType type; 

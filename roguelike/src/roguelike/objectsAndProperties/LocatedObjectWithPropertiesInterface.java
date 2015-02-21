@@ -1,14 +1,14 @@
 package roguelike.objectsAndProperties;
 
 import roguelike.TileCordinatesLinkedToChunk;
-import roguelike.worldobject.WorldObjectPropertyType;
 import roguelike.objectsAndProperties.properties.WorldObjectPropertyInterface;
+import roguelike.worldobject.WorldObjectPropertyType;
 
 import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 02.10.13
  * Time: 16:26
  * To change this template use File | Settings | File Templates.

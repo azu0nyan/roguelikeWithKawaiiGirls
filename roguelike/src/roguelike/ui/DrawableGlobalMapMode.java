@@ -2,7 +2,7 @@ package roguelike.ui;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 14.01.14
  * Time: 6:48
  * To change this template use File | Settings | File Templates.

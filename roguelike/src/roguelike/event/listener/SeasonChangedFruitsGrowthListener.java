@@ -7,11 +7,10 @@ import roguelike.event.DateChangedSeasonsChangedStartedEventInterface;
 import roguelike.event.EventInterface;
 import roguelike.event.EventType;
 import roguelike.objectsAndProperties.properties.GatheringWorldObjectProperty;
-import roguelike.objectsAndProperties.properties.GatheringWorldObjectPropertyInterface;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 30.09.13
  * Time: 20:47
  * To change this template use File | Settings | File Templates.

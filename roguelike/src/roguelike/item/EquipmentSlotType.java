@@ -2,7 +2,7 @@ package roguelike.item;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public enum EquipmentSlotType {
     

@@ -7,7 +7,7 @@ import roguelike.event.listener.conditions.Condition;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 16.06.13
  * Time: 18:09
  * To change this template use File | Settings | File Templates.

@@ -1,8 +1,5 @@
 package roguelike.creature;
 
-import java.util.LinkedList;
-import java.util.List;
-
 import roguelike.item.Item;
 import roguelike.objectsAndProperties.properties.StatsObjectPropertyInterface;
 import roguelike.objectsAndProperties.properties.WeaponPropertyInterface;
@@ -12,9 +9,11 @@ import roguelike.stats.ItemDefenseStatsInterface;
 import roguelike.stats.Stats;
 import roguelike.worldobject.WorldObjectPropertyType;
 
+import java.util.List;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 /**
  * Структура для хранения характеристик существа, содержит методы для

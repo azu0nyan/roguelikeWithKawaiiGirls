@@ -1,15 +1,8 @@
 package roguelike;
 
-import java.util.LinkedList;
-import roguelike.creature.Creature;
-import roguelike.creature.EquipmentInterface;
-import roguelike.item.EquipmentSlot;
-import roguelike.item.EquipmentSlotType;
-import roguelike.item.Item;
-
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Equipment {//implements EquipmentInterface 
 /*

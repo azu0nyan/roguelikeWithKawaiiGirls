@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 04.10.13
  * Time: 4:32
  * To change this template use File | Settings | File Templates.

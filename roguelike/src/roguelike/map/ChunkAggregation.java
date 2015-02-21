@@ -5,7 +5,7 @@ import roguelike.TileCordinates;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ChunkAggregation {
     

@@ -3,7 +3,7 @@ package roguelike;
 import java.util.LinkedList;
 /**
  *
- * @author nik
+ * @author azu
  */
 public class Path {
     

@@ -4,7 +4,7 @@ import roguelike.datetime.Date;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 22.08.13
  * Time: 1:51
  * To change this template use File | Settings | File Templates.

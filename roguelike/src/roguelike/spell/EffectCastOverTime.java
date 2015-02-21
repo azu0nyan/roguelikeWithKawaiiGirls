@@ -2,7 +2,7 @@ package roguelike.spell;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class EffectCastOverTime extends Effect{
     int time = 10;

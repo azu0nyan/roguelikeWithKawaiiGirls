@@ -1,20 +1,23 @@
 package roguelike.creature;
 
-import java.util.*;
-
 import roguelike.Pair;
 import roguelike.TileCordinatesLinkedToChunk;
 import roguelike.event.*;
-import roguelike.item.*;
+import roguelike.item.EquipmentSlot;
+import roguelike.item.Inventory;
+import roguelike.item.Item;
 import roguelike.objectsAndProperties.LocatedObjectWithPropertiesInterface;
 import roguelike.objectsAndProperties.ObjectType;
-import roguelike.objectsAndProperties.properties.WeaponPropertyInterface;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 
 import static com.google.common.collect.Lists.newArrayList;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 
 

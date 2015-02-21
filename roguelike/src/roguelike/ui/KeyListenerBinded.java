@@ -1,6 +1,7 @@
 package roguelike.ui;
 
 import roguelike.ui.keyAction.KeyAction;
+
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.logging.Level;
@@ -8,7 +9,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class KeyListenerBinded extends KeyAdapter{
     char key = 0;

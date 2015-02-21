@@ -1,12 +1,5 @@
 package roguelike.DAO;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.Statement;
-import java.util.HashMap;
-import java.util.Map;
-
 import com.sun.istack.internal.Nullable;
 import roguelike.CONFIGURATION;
 import roguelike.DAO.prototypes.ItemPrototype;
@@ -15,9 +8,16 @@ import roguelike.TileCordinatesLinkedToChunk;
 import roguelike.item.Item;
 import roguelike.objectsAndProperties.LocatedObjectWithPropertiesInterface;
 
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 public class ItemPrototypesLoader {
     

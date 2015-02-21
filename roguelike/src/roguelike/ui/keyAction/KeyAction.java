@@ -4,7 +4,7 @@ import roguelike.ui.GraphicsUI;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public abstract class KeyAction {
     public abstract void doAction(GraphicsUI ui);

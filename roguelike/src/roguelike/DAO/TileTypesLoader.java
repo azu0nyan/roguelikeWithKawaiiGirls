@@ -5,7 +5,7 @@ import roguelike.DAO.prototypes.TileType;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 
 public class TileTypesLoader extends SmthPrototypesLoader<TileType>{

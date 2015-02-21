@@ -1,14 +1,13 @@
 package roguelike.objectsAndProperties.properties;
 
-import java.util.LinkedList;
-import java.util.List;
-
 import roguelike.creature.BodyPart;
 import roguelike.stats.DamageValue;
 
+import java.util.List;
+
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface WeaponPropertyInterface extends WorldObjectPropertyInterface {
 

@@ -1,18 +1,10 @@
 package roguelike.ui;
 
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.Graphics;
-import java.awt.image.BufferStrategy;
-import java.awt.image.BufferedImage;
-import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.swing.*;
-
-import roguelike.*;
-
+import roguelike.CONFIGURATION;
 import roguelike.DAO.prototypes.TileType;
+import roguelike.Game;
+import roguelike.TileCordinates;
+import roguelike.Tools;
 import roguelike.creature.Creature;
 import roguelike.item.Item;
 import roguelike.objectsAndProperties.LocatedObjectWithPropertiesInterface;
@@ -23,11 +15,19 @@ import roguelike.stats.Stats;
 import roguelike.worldobject.WorldObject;
 import roguelike.worldobject.WorldObjectPropertyType;
 
-import static roguelike.ui.GameInterfaceState.*;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.image.BufferStrategy;
+import java.awt.image.BufferedImage;
+import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+import static roguelike.ui.GameInterfaceState.GLOBAL_MAP;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class GraphicsUI extends JFrame{
 

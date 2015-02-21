@@ -4,7 +4,7 @@ import roguelike.creature.Creature;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class SpellSimpleHeal extends SpellCastableOnHimself{
     int healValue = 10;

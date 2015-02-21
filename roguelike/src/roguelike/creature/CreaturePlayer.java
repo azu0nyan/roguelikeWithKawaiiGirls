@@ -5,7 +5,7 @@ import roguelike.TileCordinatesLinkedToChunk;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class CreaturePlayer extends CreatureHumanoid {
     //some settings

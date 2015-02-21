@@ -2,7 +2,7 @@ package roguelike.stats;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public interface ItemDefenseStatsInterface {
     //ограничение полномочий класса bodyPart

@@ -1,19 +1,18 @@
 package roguelike.DAO;
 
-import org.sqlite.SQLiteConnectionPoolDataSource;
 import roguelike.CONFIGURATION;
 
 import javax.sql.DataSource;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
 import java.io.PrintWriter;
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.SQLFeatureNotSupportedException;
 import java.util.logging.Logger;
 
 /**
  * Created with IntelliJ IDEA.
- * User: nik
+ * @author azu
  * Date: 17.01.14
  * Time: 10:25
  * To change this template use File | Settings | File Templates.

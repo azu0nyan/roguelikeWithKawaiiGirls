@@ -1,12 +1,13 @@
 package roguelike.event;
 
+import roguelike.Game;
+
 import java.util.EventListener;
 import java.util.LinkedList;
-import roguelike.Game;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 @Deprecated
 public class EventsManager implements EventManagerInterface{

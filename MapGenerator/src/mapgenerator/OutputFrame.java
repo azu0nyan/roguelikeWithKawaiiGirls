@@ -4,18 +4,15 @@
  */
 package mapgenerator;
 
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.Graphics;
-import java.awt.image.BufferStrategy;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.swing.JFrame;
 import mapgenerator.ChunkGenerator.ChunkMapGenerator;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.image.BufferStrategy;
 
 /**
  *
- * @author nik
+ * @author azu
  */
 public class OutputFrame extends JFrame{
     

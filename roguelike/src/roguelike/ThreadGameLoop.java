@@ -1,13 +1,10 @@
 package roguelike;
 
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 /**
  *
  * Класс занимается обновлением объектов/мобов
  * в будущем должен будет следить за потоками обновления
- * @author nik
+ * @author azu
  */
 public class ThreadGameLoop extends Thread{
     Game game;
