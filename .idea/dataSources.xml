@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="733756470">
+    <data-source source="LOCAL" name="Data Source" uuid="0a626604-4807-4dae-91c2-1394834277ee">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:d:\dropbox\proga\roguelike\roguelike\workdir\RogueLikeDB.s3db</jdbc-url>
+      <default-dialect>SQLite</default-dialect>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/roguelike/lib/sqlite-jdbc4-3.8.2-SNAPSHOT.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>

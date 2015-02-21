@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Data Source" product="SQLite" version="3.8.2" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="0a626604-4807-4dae-91c2-1394834277ee">
+    <synchronize>true</synchronize>
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:d:\dropbox\proga\roguelike\roguelike\workdir\RogueLikeDB.s3db</jdbc-url>
+    <default-dialect>SQLite</default-dialect>
+    <libraries>
+      <library>
+        <url>file://$PROJECT_DIR$/roguelike/lib/sqlite-jdbc4-3.8.2-SNAPSHOT.jar</url>
+      </library>
+    </libraries>
+    <schema name="" catalog=""/>
+    <table name="BODIES" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="name" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="mainBodyPart" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="maxBlood" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="bloodRegeneration" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="BODY_PARTS" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="4"/>
+      <column name="name" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="size" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="maxHp" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="EquipmentSlotType" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="isMain" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="4" def="ZmFsc2U="/>
+      <column name="isLinked" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="4" def="MQ=="/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="BODY_PART_TAGS" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="bodyPartId" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="TAG" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="BodyParts" schema="" catalog="" type="TABLE"/>
+    <table name="CONNECTED_BODY_PARTS" schema="" catalog="" type="TABLE"/>
+    <table name="CREATURES" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="name" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="body" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="size" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="fraction" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="aiType" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="symbol" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="color" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="isHumanoid" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="isDead" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="stats" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="Damages" schema="" catalog="" type="TABLE"/>
+    <table name="Fractions" schema="" catalog="" type="TABLE"/>
+    <table name="Items" schema="" catalog="" type="TABLE"/>
+    <table name="KeyBindings" schema="" catalog="" type="TABLE"/>
+    <table name="LOOT_LIST" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="itemId" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="chance" sqlType="DOUBLE" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="count" sqlType="INT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="MATERIALS_4_TEMPLATES" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="objectId" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="objectType" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="materialId" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="templatePartName" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="OBJECT_PROPERTIES" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="objectType" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="objectID" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="propertyID" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="PROPERTIES" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INTEGER" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="type" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="arg1" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg2" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg3" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg4" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg5" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg6" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg7" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg8" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg9" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg10" sqlType="TEXT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="arg0" sqlType="INT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="Stats" schema="" catalog="" type="TABLE"/>
+    <table name="TILE_TYPES" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="name" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="symbol" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="color" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="charColor" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="isWalkable" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="isWalkableOver" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="isLadder" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="WORLDOBJECTS" schema="" catalog="" type="TABLE">
+      <column name="id" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="name" sqlType="INT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="type" sqlType="INT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="symbol" sqlType="INT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <column name="description" sqlType="INT" length="2000000000" precision="10" nullable="true" jdbcType="12"/>
+      <primary-key columns="id"/>
+    </table>
+    <table name="materials" schema="" catalog="" type="TABLE"/>
+  </data-source>
+</component>

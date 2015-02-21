@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/roguelike/src/roguelike/creature/Creature.java" line="230" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00ff9a7b-77bf-48d9-9048-606c2e5c837a" name="Default" comment="" />
+    <ignored path="roguelike.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390015300766" ignored="false" />
+    <file path="/Data Source" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389950971647" ignored="false" />
+    <file path="/TileCordinates.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389739085803" ignored="false" />
+    <file path="/Chunk.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389952246300" ignored="false" />
+    <file path="/ChunkEventProcessor.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377122810932" ignored="false" />
+    <file path="/EventListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376846642088" ignored="false" />
+    <file path="/DecreasingEnduranceFromWeaponEventListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1367445164718" ignored="false" />
+    <file path="/Cordinates.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381002885029" ignored="false" />
+    <file path="/Creature.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381253580344" ignored="false" />
+    <file path="/Game.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389955032150" ignored="false" />
+    <file path="/ChunkAggregation.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389740384364" ignored="false" />
+    <file path="/Map.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389740418897" ignored="false" />
+    <file path="/TileCordinatesLinkedToChunk.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382987976798" ignored="false" />
+    <file path="/CreaturesManager.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389953860226" ignored="false" />
+    <file path="/ChunkCordinates.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389739057863" ignored="false" />
+    <file path="/MapGenerator.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382884891426" ignored="false" />
+    <file path="/GraphicsUI.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390011431057" ignored="false" />
+    <file path="/Tools.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389741578967" ignored="false" />
+    <file path="/Path.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1367624994280" ignored="false" />
+    <file path="/TestAction1.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1367625777593" ignored="false" />
+    <file path="/TileCordinatesChangedListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380722958177" ignored="false" />
+    <file path="/LocatedEventListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380727562675" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1369169353728" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-cache-3.1.xsd" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1369169353728" ignored="false" />
+    <file path="/CreatureWeaponDamagedEventDecreaseEnduranceListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376843907122" ignored="false" />
+    <file path="/EventType.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377652532271" ignored="false" />
+    <file path="/ConditoinLocatedEventListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371391825491" ignored="false" />
+    <file path="/Condition.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371391950868" ignored="false" />
+    <file path="/CreatureAliveCondition.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371392199805" ignored="false" />
+    <file path="/ConditionLocatedEventListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376843557513" ignored="false" />
+    <file path="/CONFIGURATION.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390012046828" ignored="false" />
+    <file path="/UICONFIGURATION.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371554402303" ignored="false" />
+    <file path="/ChunkEventLoggerListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376844128653" ignored="false" />
+    <file path="/ThreadEventManager.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371556607330" ignored="false" />
+    <file path="/EventsManager.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371556763155" ignored="false" />
+    <file path="/MovementType.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1373299051881" ignored="false" />
+    <file path="/CreatureMovedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376530969678" ignored="false" />
+    <file path="/CreatureMovedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376531368232" ignored="false" />
+    <file path="/Event.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377654164572" ignored="false" />
+    <file path="/CreatureGoingToPickUpItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380824572130" ignored="false" />
+    <file path="/CancellableEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371566515550" ignored="false" />
+    <file path="/CreatureGoingToCauseWeaponDamageEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376493450518" ignored="false" />
+    <file path="/CreatureGoingToCauseWeaponDamageEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376493535760" ignored="false" />
+    <file path="/CreaturePickUpItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380824933985" ignored="false" />
+    <file path="/CreatureActionInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377653030905" ignored="false" />
+    <file path="/CreatureHumanoidActionInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371817293007" ignored="false" />
+    <file path="/CreatureHumanoid.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381255687067" ignored="false" />
+    <file path="/CreatureGoingToPickUpItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376533202651" ignored="false" />
+    <file path="/CreaturePickUpItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376531782465" ignored="false" />
+    <file path="/CreatureGoingToDropItem.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371814425466" ignored="false" />
+    <file path="/CreatureDropItem.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371814440842" ignored="false" />
+    <file path="/CreatureEquipItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376530362701" ignored="false" />
+    <file path="/CreatureGoingToUnEquipItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376497459522" ignored="false" />
+    <file path="/CreatureUnEquipItem.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371814641939" ignored="false" />
+    <file path="/CreatureUnEquipItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376532302693" ignored="false" />
+    <file path="/CreatureEquipItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376530737365" ignored="false" />
+    <file path="/CreatureDropItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380848792826" ignored="false" />
+    <file path="/CreatureGoingToDropItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376533183895" ignored="false" />
+    <file path="/CreatureGoingToEquipItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376496156016" ignored="false" />
+    <file path="/CreatureGoingToEquipItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376533174705" ignored="false" />
+    <file path="/CreatureGoingToUnEquipItemEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376533190265" ignored="false" />
+    <file path="/EquipmentInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371816886550" ignored="false" />
+    <file path="/Body.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381254602727" ignored="false" />
+    <file path="/KeyActionPickUp.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371818432306" ignored="false" />
+    <file path="/KeyActionUnEquip.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371818499250" ignored="false" />
+    <file path="/KeyActionEquip.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371818597359" ignored="false" />
+    <file path="/DrawableObjectsList.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1371818829901" ignored="false" />
+    <file path="/CreatureGoingToMoveEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376496571845" ignored="false" />
+    <file path="/CreatureGoingToMoveEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376927902516" ignored="false" />
+    <file path="/CreatureMovementCollisionsListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1375119920994" ignored="false" />
+    <file path="/CreaturePlayer.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380726893541" ignored="false" />
+    <file path="/KeyActionMoveDown.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1373299519288" ignored="false" />
+    <file path="$PROJECT_DIR$/../crypto/src/test.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1374193418879" ignored="false" />
+    <file path="/test.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1374193229037" ignored="false" />
+    <file path="$PROJECT_DIR$/../crypto/src/tools/PrimaryNumbersTools.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1374254834364" ignored="false" />
+    <file path="/PrimaryNumbersTools.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1374254821055" ignored="false" />
+    <file path="/CreatureUsingBodyPartEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376431289118" ignored="false" />
+    <file path="/CreatureUsingBodyPartEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376495203094" ignored="false" />
+    <file path="/CreatureWeaponDamagedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376532704582" ignored="false" />
+    <file path="/CreatureDamagedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376425326779" ignored="false" />
+    <file path="/CreatureGoingToUseBodyPartsEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376522416656" ignored="false" />
+    <file path="/Pair.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376498507659" ignored="false" />
+    <file path="/CreatureGoingToUseBodyPartsEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376522582193" ignored="false" />
+    <file path="/BodyPart.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381248840195" ignored="false" />
+    <file path="/CreatureGoingToDropItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376494403306" ignored="false" />
+    <file path="/CreatureUsedBodyPartsEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376521909130" ignored="false" />
+    <file path="/CreatureUsedBodyPartsEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380846841020" ignored="false" />
+    <file path="/CONSTANTS.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380847392277" ignored="false" />
+    <file path="/CreatureDropItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376530378843" ignored="false" />
+    <file path="/CreatureUnEquipItemEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376531871899" ignored="false" />
+    <file path="/CreatureWeaponDamagedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376532435781" ignored="false" />
+    <file path="/CreatureDecreaseEnduranceBodyPartsUsedListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380728089480" ignored="false" />
+    <file path="/EquipmentSlot.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381248009670" ignored="false" />
+    <file path="/OutputFrame.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376847045852" ignored="false" />
+    <file path="/ChunkPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382833874206" ignored="false" />
+    <file path="/Generator.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389751773537" ignored="false" />
+    <file path="/WorldGeneratorOutputFrame.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376858042559" ignored="false" />
+    <file path="/a.sql" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389954853173" ignored="false" />
+    <file path="/dummy.sql" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389954849484" ignored="false" />
+    <file path="/WorldObjectProtoype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1376865040560" ignored="false" />
+    <file path="/WorldObject.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380719219911" ignored="false" />
+    <file path="/WorldObjectsLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380659199215" ignored="false" />
+    <file path="/AIGoToXYZ.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377119205753" ignored="false" />
+    <file path="/Tile.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380716425081" ignored="false" />
+    <file path="/Date.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380632583520" ignored="false" />
+    <file path="/DateChangedEventListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377124791825" ignored="false" />
+    <file path="/DateChangedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377121890809" ignored="false" />
+    <file path="/DateChangedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377122575386" ignored="false" />
+    <file path="/EventProcessor.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377122861057" ignored="false" />
+    <file path="/GlobalDate.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377188621321" ignored="false" />
+    <file path="/DateEventProcessor.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377123594152" ignored="false" />
+    <file path="/DateChangedNewHourStartedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377123706291" ignored="false" />
+    <file path="/DateChangedNewDayStartedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377123766940" ignored="false" />
+    <file path="/DateChangedNewMonthStartedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377123785688" ignored="false" />
+    <file path="/DateChangedNewYearSartedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377123859902" ignored="false" />
+    <file path="/DateChangedNewYearStartedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377124951924" ignored="false" />
+    <file path="/DateChangedNewMonthStartedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377124947081" ignored="false" />
+    <file path="/DateChangedNewDayStartedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377124932326" ignored="false" />
+    <file path="/DateChangedNewMinuteStartedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377124923835" ignored="false" />
+    <file path="/DateChangedNewHourStartedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377124940789" ignored="false" />
+    <file path="/Seasons.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377186350633" ignored="false" />
+    <file path="/TestMain.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390015280110" ignored="false" />
+    <file path="/Season.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377186306441" ignored="false" />
+    <file path="/DateChangedNewSeasonsStartedEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377187578022" ignored="false" />
+    <file path="/DateChangedSeasonsChangedStartedEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377188200347" ignored="false" />
+    <file path="/DamagesLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377194919795" ignored="false" />
+    <file path="/WorldObjectPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380657479274" ignored="false" />
+    <file path="/GatherableWorldObjectInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380633033066" ignored="false" />
+    <file path="/CreatureGoingToGatherItemsEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380844511510" ignored="false" />
+    <file path="/WorldObjectType.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377653684094" ignored="false" />
+    <file path="/CreatureGoingToGatherItemsEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380845943057" ignored="false" />
+    <file path="/ITEMS_GATHERED.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1377655036604" ignored="false" />
+    <file path="/CreatureGatheredItemsEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380847536045" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled1/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1378052886114" ignored="false" />
+    <file path="/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382891252556" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled2/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1378123323585" ignored="false" />
+    <file path="/Roguelike.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1378746093158" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/dz1/src/com/company/LyanguzovGcd.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1378631825529" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/dz1/src/com/company/gcd.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1378632015142" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/dz1/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1378636267026" ignored="false" />
+    <file path="/a.dummy" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389738844480" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/dz1/src/com/company/lesson2.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1378636426051" ignored="false" />
+    <file path="$PROJECT_DIR$/../rootSystems/src/rootSystems/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380207359548" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/Point3d.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379234704045" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237996193" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/dz2.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379236800840" ignored="false" />
+    <file path="/dz2.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237915519" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/Dz2.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237972347" ignored="false" />
+    <file path="/Dz2.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237916148" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/Point3D.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237198366" ignored="false" />
+    <file path="/Point3D.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237638350" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/myPoint3D.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237212876" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/MyPoint3D.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237660137" ignored="false" />
+    <file path="/MyPoint3D.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379237480948" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/MyList.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379238711802" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/ListElement.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379238731685" ignored="false" />
+    <file path="/ListElement.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379239102704" ignored="false" />
+    <file path="/MyList.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379239644589" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/SingleLinkedList.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379239649543" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/lesson3/src/com/company/SingleLinkedElement.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379239245308" ignored="false" />
+    <file path="/SingleLinkedList.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379239163455" ignored="false" />
+    <file path="/SingleLinkedElement.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379239092717" ignored="false" />
+    <file path="$PROJECT_DIR$/../rootSystems/src/rootSystems/Point3d.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379266015889" ignored="false" />
+    <file path="/Point3d.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379266104910" ignored="false" />
+    <file path="$PROJECT_DIR$/../rootSystems/src/rootSystems/Vector3d.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379266613889" ignored="false" />
+    <file path="/Vector3d.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379266105750" ignored="false" />
+    <file path="$PROJECT_DIR$/../rootSystems/src/rootSystems/Tool.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379266703810" ignored="false" />
+    <file path="/Tool.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379266745827" ignored="false" />
+    <file path="$PROJECT_DIR$/../rootSystems/src/rootSystems/Tools.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379266851353" ignored="false" />
+    <file path="/WorldGeneratorTestMain.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379515298770" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/dzTest/src/com/company/List.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379877286045" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/dzTest/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379879170099" ignored="false" />
+    <file path="/List.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379756959607" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/dzTest/src/com/company/list.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379877198888" ignored="false" />
+    <file path="/list.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1379877198888" ignored="false" />
+    <file path="/LootList.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380727285295" ignored="false" />
+    <file path="/GatherableWorldObject.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380563169553" ignored="false" />
+    <file path="/SeasonChangedFruitsGrowthListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381092789233" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/untitled/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382891707663" ignored="false" />
+    <file path="/GatherableWorldObjectProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380633213365" ignored="false" />
+    <file path="/WorldObjectProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380633123542" ignored="false" />
+    <file path="/WorldObjectPropertyInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381248379745" ignored="false" />
+    <file path="/PROPERTIES" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380638655305" ignored="false" />
+    <file path="/WORLDOBJECTS" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380638845741" ignored="false" />
+    <file path="/PropertyPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381239554500" ignored="false" />
+    <file path="/LootListLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380726859591" ignored="false" />
+    <file path="/ObjectWithProperties.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380716582909" ignored="false" />
+    <file path="/ObjectTypes.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380716700070" ignored="false" />
+    <file path="/LocatedObjectWithPropertiesInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381248417261" ignored="false" />
+    <file path="/Item.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382808656492" ignored="false" />
+    <file path="/ItemEquipment.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380726132580" ignored="false" />
+    <file path="/ItemType.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380721611829" ignored="false" />
+    <file path="/CreatureType.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389950765222" ignored="false" />
+    <file path="/ItemTypesLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380721874994" ignored="false" />
+    <file path="/TileCordinatesLinkedToChunkBindListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380921556495" ignored="false" />
+    <file path="/ItemWeapon.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380727056957" ignored="false" />
+    <file path="/ItemPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382808596377" ignored="false" />
+    <file path="/ItemPrototypesLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382807954331" ignored="false" />
+    <file path="/CreatureTypesLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389952383422" ignored="false" />
+    <file path="/GatheringWorldObjectProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380848963768" ignored="false" />
+    <file path="/LocatedObjectWithProperties.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381248651128" ignored="false" />
+    <file path="/KeyActionDrop.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380729160766" ignored="false" />
+    <file path="/CreatureGoingToPickUpItemsEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380824668309" ignored="false" />
+    <file path="/CreaturePickUpItemsEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380825037610" ignored="false" />
+    <file path="/ItemsGatheredEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380844612744" ignored="false" />
+    <file path="/ItemsGatheredEventInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380844549437" ignored="false" />
+    <file path="/CreatureGatheredItemsEvent.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380848307383" ignored="false" />
+    <file path="/GatheringWorldObjectPropertyInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1380848223352" ignored="false" />
+    <file path="/ObjectsMaterial.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381070119460" ignored="false" />
+    <file path="/MATERIALS" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381071136223" ignored="false" />
+    <file path="/MaterialsLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381238764089" ignored="false" />
+    <file path="/ObjectMaterial.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381073661724" ignored="false" />
+    <file path="/Material.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381077756379" ignored="false" />
+    <file path="/MaterialsListPropertyInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381102795722" ignored="false" />
+    <file path="/MaterialsList.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381095526193" ignored="false" />
+    <file path="/MaterialsListProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381238496791" ignored="false" />
+    <file path="/Triple.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1383315542424" ignored="false" />
+    <file path="$PROJECT_DIR$/../javaExamples/untitled/src/com/company/TestFrame.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381588960087" ignored="false" />
+    <file path="/TestFrame.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381588960087" ignored="false" />
+    <file path="/MaterialsAndPartsListProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382533404528" ignored="false" />
+    <file path="/ItemTemplate.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382807903774" ignored="false" />
+    <file path="/ItemTemplatesMap.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381240762756" ignored="false" />
+    <file path="/SwordItemTemplate.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382638409677" ignored="false" />
+    <file path="/ItemTemplates.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382808436698" ignored="false" />
+    <file path="/WeaponInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381241629242" ignored="false" />
+    <file path="/WeaponWorldObjectProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381247216084" ignored="false" />
+    <file path="/WeaponItemProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381246340093" ignored="false" />
+    <file path="/changelog.txt" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389758962903" ignored="false" />
+    <file path="/WeaponBodyPartProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381246792060" ignored="false" />
+    <file path="/EquipableIemPropertyInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381245848944" ignored="false" />
+    <file path="/StatsObjectProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381245830880" ignored="false" />
+    <file path="/EquipableItemProperty.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381246856739" ignored="false" />
+    <file path="/EquipableItemPropertyInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381246622501" ignored="false" />
+    <file path="/CreatureStats.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381254034677" ignored="false" />
+    <file path="$PROJECT_DIR$/roguelike/src/roguelike/spell/EffectItem.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381253289494" ignored="false" />
+    <file path="/WeaponPropertyInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381327788966" ignored="false" />
+    <file path="/MaterialsAndPartsListPropertyInterface.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382533363665" ignored="false" />
+    <file path="$PROJECT_DIR$/../jMonkeyGame/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381418162672" ignored="false" />
+    <file path="$PROJECT_DIR$/../jMonkeyGame/src/game/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381418316622" ignored="false" />
+    <file path="$PROJECT_DIR$/../jMonkeyGame/src/game/Application.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381676496931" ignored="false" />
+    <file path="/Application.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381497955932" ignored="false" />
+    <file path="/main.lua" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1381779193714" ignored="false" />
+    <file path="$PROJECT_DIR$/../reverseGame/reverseGame/main.lua" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382531413334" ignored="false" />
+    <file path="/TwoHandSwordItemTemplate.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382808724604" ignored="false" />
+    <file path="/SimpleItem.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382534555426" ignored="false" />
+    <file path="/ItemTypes.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382726175070" ignored="false" />
+    <file path="/PreGeneratedMap.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389753510268" ignored="false" />
+    <file path="/ChunkPrototype2D.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1386318785482" ignored="false" />
+    <file path="$PROJECT_DIR$/roguelike/src/roguelike/event/listener/LocatedEventListener.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382882826294" ignored="false" />
+    <file path="/MapGeneratorThread.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389754032855" ignored="false" />
+    <file path="/ChunkObserver.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382885159241" ignored="false" />
+    <file path="/ChunkState.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1382885493690" ignored="false" />
+    <file path="/Plane.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1383317647186" ignored="false" />
+    <file path="/ThreadGameLoop.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1383319792977" ignored="false" />
+    <file path="/ChunkObserverGenerator.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1384998743090" ignored="false" />
+    <file path="/Biome.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1386319587535" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled6/src/com/company/Main.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1387997999570" ignored="false" />
+    <file path="/KeyListenerBinded.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1387880941575" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled6/src/com/company/Paint.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1387998622722" ignored="false" />
+    <file path="/Paint.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1387998603008" ignored="false" />
+    <file path="/DrawableGlobalMap.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389752070298" ignored="false" />
+    <file path="/DrawableGlobalMapMode.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389745281414" ignored="false" />
+    <file path="/GameInterfaceState.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389668833310" ignored="false" />
+    <file path="/KeyActionInventoryInterfaceSwitch.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389676570939" ignored="false" />
+    <file path="/KeyActionGlobalMapInterfaceSwitch.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389676628353" ignored="false" />
+    <file path="/CordinatesEnterFrame.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389734388012" ignored="false" />
+    <file path="$PROJECT_DIR$/roguelike/src/roguelike/DAO/prototypes.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389936838157" ignored="false" />
+    <file path="/BodyPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389953839606" ignored="false" />
+    <file path="/BodiesLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389953508370" ignored="false" />
+    <file path="/StupidDaraSourse.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389940024955" ignored="false" />
+    <file path="/StupidDataSource.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390017974686" ignored="false" />
+    <file path="/BodyPartPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389953580408" ignored="false" />
+    <file path="/BodyPartTagPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389950347599" ignored="false" />
+    <file path="/ConnectedBodyPartPrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389948766788" ignored="false" />
+    <file path="/BodyPartsLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389953724808" ignored="false" />
+    <file path="/CreaturePrototype.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389953295982" ignored="false" />
+    <file path="/SmthPrototypesLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390018162161" ignored="false" />
+    <file path="/HasId.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389951725844" ignored="false" />
+    <file path="$PROJECT_DIR$/roguelike/src/roguelike/item/itemTemplates/ItemTemplate.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389953979950" ignored="false" />
+    <file path="/TileType.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390011410287" ignored="false" />
+    <file path="/TileTypesLoader.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1389955052621" ignored="false" />
+    <file path="/EditorFrame.java" changelist="00ff9a7b-77bf-48d9-9048-606c2e5c837a" time="1390016957463" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/roguelike$Roguelike.coverage" NAME="Roguelike Coverage Results" MODIFIED="1380650425096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="roguelike">
+      <favorite_root url="file://$PROJECT_DIR$/docs/chunk_generation.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DBEditor.form" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/editor/DBEditor.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditorFrame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/editor/EditorFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="27" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1798#2282#0" expanded="true" />
+                <element signature="e#2271#2272#0" expanded="true" />
+                <element signature="e#2331#2864#0" expanded="true" />
+                <element signature="e#2853#2854#0" expanded="true" />
+                <element signature="e#2911#3082#0" expanded="true" />
+                <element signature="e#3071#3072#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmthPrototypesLoader.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/SmthPrototypesLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="8" selection-start="1299" selection-end="1299" vertical-scroll-proportion="0.82994187">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BodiesLoader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/BodiesLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="22" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CONFIGURATION.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/CONFIGURATION.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="87" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphicsUI.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/ui/GraphicsUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="261" column="55" selection-start="9961" selection-end="9961" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TileType.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/prototypes/TileType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="44" selection-start="1623" selection-end="1623" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TILE_TYPES" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..TILE_TYPES">
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/DAO/TileType.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/Game.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/DAO/TileTypesLoader.java" />
+        <option value="dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..TILE_TYPES" />
+        <option value="dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..TILES" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/editor/DBEditor.form" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/DAO/prototypes/TileType.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/ui/GraphicsUI.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/CONFIGURATION.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/TestMain.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/editor/EditorFrame.java" />
+        <option value="dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..BodyParts" />
+        <option value="dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..Stats" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/DAO/StupidDataSource.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/DAO/BodiesLoader.java" />
+        <option value="$PROJECT_DIR$/roguelike/src/roguelike/DAO/SmthPrototypesLoader.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages PackagesPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages PackagesPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="editor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prototypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roguelike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creature" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Console.TableResult.DefaultCopyAction" value="SQL Insert Statements" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/roguelike/src/roguelike" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/roguelike/lib/sqlite-jdbc4-3.8.2-SNAPSHOT.jar" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.8760196" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="roguelike.worldgenerator" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="roguelike.item" />
+      <recent name="roguelike.objectsAndProperties" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="roguelike.DAO" />
+      <recent name="roguelike.worldobject.properties" />
+      <recent name="roguelike.event" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dropbox\proga\roguelike\roguelike\src\roguelike\editor" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="roguelike.creature" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EditorFrame">
+    <configuration default="true" type="#org.osmorc.OsgiConfigurationType" factoryName="OSGi Bundles" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="1" defaultStartLevel="5" generateWorkingDir="false">
+      <framework instance="" />
+      <additinalProperties startConsole="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CfmlUnitRunConfigurationType" factoryName="MXUnit" method="" path="" scope="Component" webpath="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Roguelike" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="roguelike.Roguelike" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/roguelike/workdir" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="roguelike" />
+      <envs />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WorldGeneratorTestMain" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="roguelike.worldgenerator.WorldGeneratorTestMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="roguelike" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestMain" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="roguelike.TestMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/roguelike/workdir" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="roguelike" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EditorFrame" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="roguelike.editor.EditorFrame" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/roguelike/workdir" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="roguelike" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Roguelike" />
+      <item index="1" class="java.lang.String" itemvalue="Application.WorldGeneratorTestMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.EditorFrame" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ff9a7b-77bf-48d9-9048-606c2e5c837a" name="Default" comment="" />
+      <created>1367411696670</created>
+      <updated>1367411696670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18356457" sideWeight="0.7620064" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3127001" sideWeight="0.7620064" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16915688" sideWeight="0.7620064" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2379936" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.67129135" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22038421" sideWeight="0.7620064" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.32870865" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" x="1936" y="412" width="1285" height="523" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34364995" sideWeight="0.28708646" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22945571" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22945571" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991462" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/ui/GraphicsUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="261" column="55" selection-start="9961" selection-end="9961" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="29" selection-start="725" selection-end="725" vertical-scroll-proportion="0.298573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/prototypes/TileType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="44" selection-start="1623" selection-end="1623" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/roguelike/lib/sqlitejdbc-v056.jar!/org/sqlite/SQLite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="159" selection-end="159" vertical-scroll-proportion="-2.5519187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/roguelike/lib/sqlite-connection-pool_v1.1.0.jar!/org/sqlite/SQLitePooledConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="153" selection-end="153" vertical-scroll-proportion="-0.34311512">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/roguelike/lib/sqlite-connection-pool_v1.1.0.jar!/org/sqlite/SQLiteConnectionPoolDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="36" selection-start="153" selection-end="183" vertical-scroll-proportion="0.0959368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..BodyParts">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..Stats">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4c0d0a56/0a626604-4807-4dae-91c2-1394834277ee/..TILE_TYPES">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/editor/EditorFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="27" selection-start="2726" selection-end="2726" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1798#2282#0" expanded="true" />
+            <element signature="e#2271#2272#0" expanded="true" />
+            <element signature="e#2331#2864#0" expanded="true" />
+            <element signature="e#2853#2854#0" expanded="true" />
+            <element signature="e#2911#3082#0" expanded="true" />
+            <element signature="e#3071#3072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/StupidDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="11" selection-start="463" selection-end="463" vertical-scroll-proportion="0.1752809">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/roguelike/lib/ammentos_1.3.7.jar!/it/biobytes/ammentos/Ammentos.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="23" selection-start="4415" selection-end="4415" vertical-scroll-proportion="0.34615386">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/BodiesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="22" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/TileTypesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="18" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.66866565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/editor/DBEditor.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roguelike/src/roguelike/DAO/SmthPrototypesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="8" selection-start="1299" selection-end="1299" vertical-scroll-proportion="0.82994187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>eventbus</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>roguelike</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000003" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
